@@ -1,0 +1,46 @@
+body{
+    background-color: #eee;
+}
+
+
+#home{
+    text-align: center;
+    padding: 8px;
+    border-radius: 12px;
+    background-color: whitesmoke;
+    border: 2px solid black;
+}
+
+input{
+    height: 35px;
+    width: 250px;
+    border-radius: 12px;
+    padding: 5px;
+    outline: none;
+}
+
+#img{
+    height: 65px;      
+   }
+
+button:hover{
+    background-color: lime;
+}
+
+button{
+    width: 150px;
+    height: 35px;
+    border-radius: 20px;
+    background-color: dodgerblue;
+    box-shadow: 4px 4px 5px black;
+    font-size: larger;
+    font-weight: 600;
+}
+
+a:hover{
+    color: green;
+}
+
+a{
+    text-decoration: none;
+}

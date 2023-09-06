@@ -1,0 +1,47 @@
+body{
+    background-color: rgba(128, 128, 128, 0);
+    font-size: 25px;
+}
+
+h1{
+    color: dodgerblue;
+}
+
+span{
+    color: darkorange;
+}
+
+li:hover{
+    color: black;
+}
+header{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background: #111;
+    border-bottom-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+}
+header ul {
+    display:flex;
+    text-align: center;
+    justify-content: space-between;
+    list-style-type: none;
+    margin-right: 5px;
+    background-color: darkorange;
+    padding: 10px;
+    border-radius: 12px;
+    color: aliceblue;
+    font-size: large;
+    font-weight: 700;
+}
+.container{
+    margin-top: 12rem;
+    color: #222;
+}
+div{
+    padding: 20px;
+    border-bottom-right-radius: 14px;
+    border-bottom-left-radius: 14px;
+}
+

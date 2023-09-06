@@ -1,0 +1,64 @@
+body{
+    background: #eee;
+}
+
+h1{
+color: darkorange;
+font-weight: bolder;
+text-align: center;
+}
+
+#live{
+color: dodgerblue;
+}
+
+#img{
+ height: 65px;      
+}
+
+#home{
+    text-align: center;
+    padding-top: 6px;
+    border-radius: 12px;
+    background: transparent;
+    border: 2px solid black;
+}
+
+input:hover{
+    background-color: whitesmoke;
+}
+
+input {
+    height: 35px;
+    width: 250px;
+    border-radius: 12px;
+    padding: 5px;
+    outline: none;
+    
+}
+
+button:hover{
+    background-color: lime;
+}
+
+button{
+    width: 150px;
+    height: 35px;
+    border-radius: 20px;
+    background-color: dodgerblue;
+    box-shadow: 4px 4px 5px black;
+    font-size: larger;
+    font-weight: 600;
+}
+
+a:hover{
+    color: green;
+}
+
+a{
+    text-decoration: none;
+}
+
+#dont{
+    text-align: center;
+}

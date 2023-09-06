@@ -1,0 +1,47 @@
+body{
+    background-color: #eee;
+}
+
+form{
+    text-align: center;
+    border: 2px solid black;
+    padding: 6px;
+    background-color: #eee;
+}
+
+h3{
+    text-align: center;
+}
+
+#info{
+    height: 35px;
+    width: 250px;
+    border-radius: 12px;
+    padding: 5px;
+    outline: none;
+}
+p{
+    text-align: center;
+}
+
+button:hover{
+    background-color: lime;
+}
+
+button{
+    width: 150px;
+    height: 35px;
+    border-radius: 20px;
+    background-color: dodgerblue;
+    box-shadow: 4px 4px 5px black;
+    font-size: larger;
+    font-weight: 600;
+}
+
+a:hover{
+    color: green;
+}
+
+a{
+    text-decoration: none;
+}
